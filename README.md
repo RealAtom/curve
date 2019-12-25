@@ -3,7 +3,7 @@
 Curve is a framework for creating web applications. Designed to be fast and easy, with the ability to scale to complex applications.
 
 ## Example
-```
+```python
   from curve import Curve, init_server
 
   app = Curve()
