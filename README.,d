@@ -1,11 +1,9 @@
-Curve
-=====
+# Curve
 
 Curve is a framework for creating web applications. Designed to be fast and easy, with the ability to scale to complex applications.
 
-Example
-----------
-.. code-block:: python
+## Example
+```
   from curve import Curve, init_server
 
   app = Curve()
@@ -20,3 +18,4 @@ Example
       module = __name__,
       port = 80,
       address = '127.0.0.1')
+```
