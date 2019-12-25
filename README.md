@@ -1,4 +1,4 @@
-# Curve
+![](https://i.imgur.com/Ez57Azt.png)
 
 Curve is a framework for creating web applications. Designed to be fast and easy, with the ability to scale to complex applications.
 
